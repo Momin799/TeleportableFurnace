@@ -2,7 +2,7 @@
 
 namespace Furnace;
 
-use Furnace\Commands\FurnaceCommand;
+use Furnace\FurnaceCommand;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\block\Block;
