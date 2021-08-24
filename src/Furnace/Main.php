@@ -1,6 +1,6 @@
 <?php
 
-namespace Furnace:
+namespace Furnace;
 
 use Furnace\Commands\CraftCommand;
 
