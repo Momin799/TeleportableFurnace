@@ -1,1 +1,9 @@
+name: Furnace
+main: Furnace\Main
+version: 1.0.0
+api: 3.22.2
+author: Momin
 
+permissions:
+  furnace.command:
+    default: op
