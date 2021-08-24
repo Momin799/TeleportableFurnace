@@ -16,7 +16,7 @@ use pocketmine\plugin\Plugin;
 
 use pocketmine\block\Block;
 use function array_key_exists;
-use pocketmine\inventory\CraftingGrid;
+use pocketmine\inventory\FurnaceGrid;
 use pocketmine\network\mcpe\protocol\ContainerOpenPacket;
 use pocketmine\network\mcpe\protocol\types\WindowTypes;
 
