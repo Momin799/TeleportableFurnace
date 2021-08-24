@@ -1,7 +1,7 @@
 
 <?php
 
-namespace Furnace\Commands;
+namespace Furnace\FurnaceCommand;
 
 use Furnace\Main;
 
