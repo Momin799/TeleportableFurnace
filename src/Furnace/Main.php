@@ -1,6 +1,6 @@
 <?php
 
-namespace Furnace;
+namespace Furnace:
 
 use Furnace\Commands\FurnaceCommand;
 
@@ -31,7 +31,8 @@ class Main extends PluginBase {
   }
   
   public function onEnable(): void{
-  	$this->getServer()->getCommandMap()->register("furnace", new FurnaceCommand("furnace", $this));
-  	}
+  	       $this->getLogger()->info("Plugin Enabled");
+ 
+  	} 
 
 }
